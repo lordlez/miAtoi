@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1647987329 source:d:\c\miatoi\funciones.c
+	"header.h"
+
+1647987118 d:\c\miatoi\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1647987259 source:d:\c\miatoi\main.c
+	"header.h"
+
